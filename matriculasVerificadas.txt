@@ -1,0 +1,10 @@
+0816-E falso
+2315-3 verdadeiro
+4166-6 verdadeiro
+5830-2 verdadeiro
+6599-E falso
+6668-8 verdadeiro
+7240-7 verdadeiro
+7778-4 verdadeiro
+7981-1 verdadeiro
+9203-A falso
