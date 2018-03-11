@@ -19,8 +19,6 @@ Tecgraf challenger
 
 ### Build and Installation ###
 
-* In command line execute
-
 Clone this repository
 
     git clone https://github.com/rodrigues882013/verify_digit
